@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31727.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0128画像加工", "0128画像加工\0128画像加工.vcxproj", "{DD31CB7D-7DCC-4E73-9D23-3BECA7695ED0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD31CB7D-7DCC-4E73-9D23-3BECA7695ED0}.Debug|x64.ActiveCfg = Debug|x64
+		{DD31CB7D-7DCC-4E73-9D23-3BECA7695ED0}.Debug|x64.Build.0 = Debug|x64
+		{DD31CB7D-7DCC-4E73-9D23-3BECA7695ED0}.Debug|x86.ActiveCfg = Debug|Win32
+		{DD31CB7D-7DCC-4E73-9D23-3BECA7695ED0}.Debug|x86.Build.0 = Debug|Win32
+		{DD31CB7D-7DCC-4E73-9D23-3BECA7695ED0}.Release|x64.ActiveCfg = Release|x64
+		{DD31CB7D-7DCC-4E73-9D23-3BECA7695ED0}.Release|x64.Build.0 = Release|x64
+		{DD31CB7D-7DCC-4E73-9D23-3BECA7695ED0}.Release|x86.ActiveCfg = Release|Win32
+		{DD31CB7D-7DCC-4E73-9D23-3BECA7695ED0}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3BB4844E-EA2B-4555-969B-19D26AA078E9}
+	EndGlobalSection
+EndGlobal
